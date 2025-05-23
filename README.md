@@ -1,25 +1,66 @@
-<h1 align="center">Hi 👋, I'm Mohamed Elfeky</h1>
-<h3 align="center">I'm a Computer Science Student, specializing in Data Science and Artificial Intelligence.</h3>
+# Hi there! 👋 I'm Mohamed Elfeky
 
-- 🔭 I’m currently working on **Pharmacy Management System**
+### 🎓 Computer Science Student | Data Science & AI Enthusiast
 
-- 🌱 I’m currently learning **Automation tools (make.com,zapier,n8n,albato,automa)**
+Welcome to my GitHub profile! I'm passionate about leveraging technology to solve real-world problems through data science, artificial intelligence, and automation.
 
-- 👯 I’m looking to collaborate on [Car Rental System](https://github.com/youssefEssa22/Database-Project-)
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mohammedelfeky702](https://github.com/Mohammedelfeky702)
+## 🚀 What I'm Working On
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-elfeky-9a83a2304/](https://www.linkedin.com/in/mohamed-elfeky-9a83a2304/)
+- **🏥 Pharmacy Management System** - Building a comprehensive solution for pharmaceutical operations
+- **📚 Learning Journey** - Mastering automation tools including Make.com, Zapier, n8n, Albato, and Automa
+- **🤝 Open to Collaboration** - Seeking contributors for my [Car Rental System](https://github.com/youssefEssa22/Database-Project-) project
 
-- 💬 Ask me about **java,python,sql**
+## 💻 Technical Expertise
 
-- 📫 How to reach me **me078122@gmail.com**
+**Programming Languages:**
+- Java ☕
+- Python 🐍  
+- SQL 📊
 
-<h3 align="left">Connect with me:</h3>
+**Specializations:**
+- Data Science & Analytics
+- Artificial Intelligence
+- Database Management
+- Process Automation
+
+## 🌐 Find Me Online
+
+- **💼 LinkedIn:** [Mohamed Elfeky](https://www.linkedin.com/in/mohamed-elfeky-9a83a2304/) - Where I share insights and articles
+- **📧 Email:** me078122@gmail.com
+- **💻 All Projects:** [GitHub Portfolio](https://github.com/Mohammedelfeky702)
+
+---
+
+## 🛠️ Technologies & Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/mohamed elfeky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed elfeky" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed elfeky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed elfeky" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
+
+## 🤝 Let's Connect!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-elfeky-9a83a2304/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://fb.com/mohamed elfeky" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+*💡 Always excited to discuss new projects, collaborate on interesting ideas, or chat about the latest in AI and data science!*
